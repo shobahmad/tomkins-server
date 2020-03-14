@@ -13,7 +13,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "sync/msart": {
+  "sync_msart": {
        "status": 1,
        "data": [{"KodeArt":"011219A-PAI","NamaArt":"PARABELLUM BETA","Warna":"BLACK","KodeBrand":"3","KodeGender":"M","Harga":"380000"},{"KodeArt":"020307A-PAI","NamaArt":"FICTION FOX","Warna":"WHT/RED","KodeBrand":"3","KodeGender":"M","Harga":"123000"}]
   }
