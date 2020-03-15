@@ -17,8 +17,15 @@
        "status": 1,
        "result": {
          "last_update" : "2020-03-14 18:30:04",
-         "data" : [{"KodeArt":"011219A-PAI","NamaArt":"PARABELLUM BETA","Warna":"BLACK","KodeBrand":"3","KodeGender":"M","Harga":"380000"},{"KodeArt":"020307A-PAI","NamaArt":"FICTION FOX","Warna":"WHT/RED","KodeBrand":"3","KodeGender":"M","Harga":"123000"}]
+         "data" : [{"KodeArt":"350719A-PAI","NamaArt":"PARABELLUM BETA","Warna":"BLACK","KodeBrand":"3","KodeGender":"M","Harga":"380000"},{"KodeArt":"020307A-PAI","NamaArt":"FICTION FOX","Warna":"WHT/RED","KodeBrand":"3","KodeGender":"M","Harga":"123000"}]
        }
-  }
+  },
+  "sync_msbarcode": {
+       "status": 1,
+       "result": {
+         "last_update" : "2020-03-15 11:24:06",
+         "data" : [{"NoBarcode":"8994906080063","KodeArt":"350719A-PAI","Ukuran":"37"},{"NoBarcode":"8994906080070","KodeArt":"350719A-PAI","Ukuran":"38"},{"NoBarcode":"8994906080087","KodeArt":"350719B-PAI","Ukuran":"31"},{"NoBarcode":"8994906080094","KodeArt":"350719B-PAI","Ukuran":"32"},{"NoBarcode":"8994906080100","KodeArt":"350719B-PAI","Ukuran":"33"},{"NoBarcode":"8994906080117","KodeArt":"350719B-PAI","Ukuran":"34"},{"NoBarcode":"8994906080124","KodeArt":"350719B-PAI","Ukuran":"35"},{"NoBarcode":"8994906080131","KodeArt":"350719B-PAI","Ukuran":"36"}]
+       }
+  },
   
 }
