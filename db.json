@@ -26,5 +26,12 @@
          "last_update" : "2020-03-15 11:24:06",
          "data" : [{"NoBarcode":"8994906080063","KodeArt":"350719A-PAI","Ukuran":"37"},{"NoBarcode":"8994906080070","KodeArt":"350719A-PAI","Ukuran":"38"},{"NoBarcode":"8994906080087","KodeArt":"350719B-PAI","Ukuran":"31"},{"NoBarcode":"8994906080094","KodeArt":"350719B-PAI","Ukuran":"32"},{"NoBarcode":"8994906080100","KodeArt":"350719B-PAI","Ukuran":"33"},{"NoBarcode":"8994906080117","KodeArt":"350719B-PAI","Ukuran":"34"},{"NoBarcode":"8994906080124","KodeArt":"350719B-PAI","Ukuran":"35"},{"NoBarcode":"8994906080131","KodeArt":"350719B-PAI","Ukuran":"36"}]
        }
+  },
+  "sync_msbrand": {
+       "status": 1,
+       "result": {
+         "last_update" : "2020-03-14 18:30:04",
+         "data" : [{"KodeBrand":"1","NamaBrand":"FOS"},{"KodeBrand":"2","NamaBrand":"SHINSUNG"},{"KodeBrand":"3","NamaBrand":"TOMKINS"},{"KodeBrand":"4","NamaBrand":"ALL 41"},{"KodeBrand":"5","NamaBrand":"NENE"},{"KodeBrand":"6","NamaBrand":"LIMITED EDITION"},{"KodeBrand":"7","NamaBrand":"MC LENNAN"},{"KodeBrand":"8","NamaBrand":"KAOS KAKI"},{"KodeBrand":"9","NamaBrand":"TAS SEKOLAH"},{"KodeBrand":"A","NamaBrand":"GINGKO"},{"KodeBrand":"B","NamaBrand":"E.Z SPORT"},{"KodeBrand":"E","NamaBrand":"CALIBER TP"},{"KodeBrand":"F","NamaBrand":"FORVIC"},{"KodeBrand":"K","NamaBrand":"KARIMOR"},{"KodeBrand":"O","NamaBrand":"TOE ZONE"},{"KodeBrand":"Q","NamaBrand":"MS ZONE"},{"KodeBrand":"U","NamaBrand":"HI-TEC"},{"KodeBrand":"V","NamaBrand":"3.1015a"},{"undefined":"1"}]
+       }
   }
 }
