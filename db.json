@@ -31,7 +31,7 @@
        "status": 1,
        "result": {
          "last_update" : "2020-03-14 18:30:04",
-         "data" : [{"KodeBrand":"1","NamaBrand":"FOS"},{"KodeBrand":"2","NamaBrand":"SHINSUNG"},{"KodeBrand":"3","NamaBrand":"TOMKINS"},{"KodeBrand":"4","NamaBrand":"ALL 41"},{"KodeBrand":"5","NamaBrand":"NENE"},{"KodeBrand":"6","NamaBrand":"LIMITED EDITION"},{"KodeBrand":"7","NamaBrand":"MC LENNAN"},{"KodeBrand":"8","NamaBrand":"KAOS KAKI"},{"KodeBrand":"9","NamaBrand":"TAS SEKOLAH"},{"KodeBrand":"A","NamaBrand":"GINGKO"},{"KodeBrand":"B","NamaBrand":"E.Z SPORT"},{"KodeBrand":"E","NamaBrand":"CALIBER TP"},{"KodeBrand":"F","NamaBrand":"FORVIC"},{"KodeBrand":"K","NamaBrand":"KARIMOR"},{"KodeBrand":"O","NamaBrand":"TOE ZONE"},{"KodeBrand":"Q","NamaBrand":"MS ZONE"},{"KodeBrand":"U","NamaBrand":"HI-TEC"},{"KodeBrand":"V","NamaBrand":"3.1015a"},{"undefined":"1"}]
+         "data" : [{"KodeBrand":"1","NamaBrand":"FOS"},{"KodeBrand":"2","NamaBrand":"SHINSUNG"},{"KodeBrand":"3","NamaBrand":"TOMKINS"},{"KodeBrand":"4","NamaBrand":"ALL 41"},{"KodeBrand":"5","NamaBrand":"NENE"},{"KodeBrand":"6","NamaBrand":"LIMITED EDITION"},{"KodeBrand":"7","NamaBrand":"MC LENNAN"},{"KodeBrand":"8","NamaBrand":"KAOS KAKI"},{"KodeBrand":"9","NamaBrand":"TAS SEKOLAH"},{"KodeBrand":"A","NamaBrand":"GINGKO"},{"KodeBrand":"B","NamaBrand":"E.Z SPORT"},{"KodeBrand":"E","NamaBrand":"CALIBER TP"},{"KodeBrand":"F","NamaBrand":"FORVIC"},{"KodeBrand":"K","NamaBrand":"KARIMOR"},{"KodeBrand":"O","NamaBrand":"TOE ZONE"},{"KodeBrand":"Q","NamaBrand":"MS ZONE"},{"KodeBrand":"U","NamaBrand":"HI-TEC"},{"KodeBrand":"V","NamaBrand":"3.1015a"}]
        }
   }
 }
